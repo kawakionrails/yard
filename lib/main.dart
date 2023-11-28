@@ -21,13 +21,13 @@ class _MyAppState extends State<MyApp> {
   static const List<Widget> _widgetOptions = <Widget>[
     Center(
       child: Text(
-        'Olá, mundo!',
+        'Chat',
         style: TextStyle(fontSize: 16, color: Colors.white),
       ),
     ),
     Center(
       child: Text(
-        'Segunda Tela',
+        'Settings',
         style: TextStyle(fontSize: 16, color: Colors.white),
       ),
     ),
